@@ -2,6 +2,7 @@ databases:
   - name: calendar_api
     databaseName: calendar_api
     user: calendar_api
+    plan: free
 
 services:
   - type: web
